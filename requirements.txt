@@ -8,9 +8,9 @@ djangorestframework==3.12.2
 isort==5.6.4
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
-mysqlclient==2.0.1
+# mysqlclient==2.0.1
 Pillow==8.0.1
-pkg-resources==0.0.0
+# pkg-resources==0.0.0
 pycparser==2.20
 pylint==2.6.0
 pytz==2020.4
@@ -19,3 +19,5 @@ sqlparse==0.4.1
 toml==0.10.2
 typed-ast==1.4.1
 wrapt==1.12.1
+mysql.connector
+PyMySQL==0.9.3
